@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\ProgramData\\chocolatey\\lib\\scala\\tools\\scala\\3.7.2\\scala3-3.7.2-x86_64-pc-win32\\libexec\\scala-cli.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\full-stack\\NMPS\\NMPS-ANIME\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\full-stack\\NMPS\\NMPS-ANIME\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\full-stack\\NMPS\\NMPS-ANIME\\.scala-build\\ide-envs.json",
+    "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\full-stack\\NMPS\\NMPS-ANIME"
+  ],
+  "version": "1.8.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
